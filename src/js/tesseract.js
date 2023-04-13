@@ -19,7 +19,6 @@ class Tesseract{
 		g.vertices.push(new THREE.Vector4(1,1,1,-1))
 		g.vertices.push(new THREE.Vector4(1,1,-1,-1))
 
-
 		g.vertices.push(new THREE.Vector4(-1,-1,-1,1))
 		g.vertices.push(new THREE.Vector4(-1,-1,1,1))
 		g.vertices.push(new THREE.Vector4(-1,1,1,1))
